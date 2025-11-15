@@ -99,6 +99,9 @@ Placa
 ## 🔗 Link da simulação no Wokwi
 - https://wokwi.com/projects/447712083002777601I
 
+## 🔗 Link Youtube
+- https://youtu.be/f6DmKOWooxY?si=fBDmx725Y0ycrukB
+
 ---
 
 ## 📸 Imagem do circuito
