@@ -1,3 +1,8 @@
+## Grupo
+1. Ryan Perez Pacheco - 98782
+2. Guilherme Dal Posolo Matheus - 98694
+3. Guilherme Faustino Vargas - 98278
+
 # 📡 Projeto IoT com ESP32 – Medição de Luminosidade via MQTT (LDR + HiveMQ)
 
 Este projeto demonstra uma solução IoT utilizando **ESP32**, **sensor LDR** e comunicação **MQTT** para enviar medições de luminosidade em tempo real.  
