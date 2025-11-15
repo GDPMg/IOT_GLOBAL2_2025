@@ -97,10 +97,10 @@ Placa
 ---
 
 ## 🔗 Link da simulação no Wokwi
-- https://wokwi.com/projects/447712083002777601I
+- [Wokwi](https://wokwi.com/projects/447712083002777601)
 
 ## 🔗 Link Youtube
-- https://youtu.be/f6DmKOWooxY?si=fBDmx725Y0ycrukB
+- [Youtube](https://youtu.be/f6DmKOWooxY?si=fBDmx725Y0ycrukB)
 
 ---
 
